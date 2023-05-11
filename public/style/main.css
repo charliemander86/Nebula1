@@ -396,6 +396,13 @@ input:focus::placeholder {
   padding-right: 15px;
 }
 
+.tnr {
+  position: fixed;
+  right: 150px;
+  bottom: 0;
+  padding-right: 15px;
+}
+
 .modal-window {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.25);
